@@ -32,8 +32,8 @@ form{
       background-color: rgb(216, 216, 216);
 }
 select{
-    width: 50%;
-    margin: auto;
+    -webkit-appearance:none ;
+    appearance: none;
 }
 
 @media (max-width: 575.98px) {      
@@ -48,7 +48,7 @@ select{
         padding-top: 1rem;
     }
     select option{
-        font-size: 14px;
+        font-size: 10px;
       }
 
    
@@ -65,8 +65,4 @@ select{
         padding-right: 20px;
         color:rgb(58, 95, 34);
     }   
-}
-select{
-    -webkit-appearance:none ;
-    appearance: none;
 }
