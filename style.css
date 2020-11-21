@@ -47,6 +47,9 @@ select{
     #booking-details{
         padding-top: 1rem;
     }
+    select option{
+        font-size: 14px;
+      }
 
    
 }
