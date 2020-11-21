@@ -1,4 +1,17 @@
 <?php
+/**
+ * Template File Doc Comment
+ *
+ * PHP version 7
+ *
+ * @category Online_Cab_Booking
+ * @package  Ced_Cab
+ * @author   Author <cedcab@cedcoss.com>
+ * @license  PERSONAL License
+ * @link     https://localhost/
+ */
+
+?><?php
 $location=array("Charbagh"=>"0",
                 "Indira Nagar"=>"10",
                 "BBD"=>"30",
